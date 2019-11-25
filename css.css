@@ -1,0 +1,15 @@
+#container {
+display: flex;
+    justify-content: center;
+margin-top: 10%;
+    margin-right: 30%;
+    margin-left: 30%;
+    border: dashed black 1px;
+}
+
+#boutonn {
+}
+
+#texte {
+    text-align: center;
+}
